@@ -1,2 +1,2 @@
 # Basic-8
-The sum of numbers
+Simple BASIC code that calculates the sum of numbers from 1 to a user-specified value
